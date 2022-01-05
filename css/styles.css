@@ -132,3 +132,7 @@ h2{
   text-align: center;
   color: gray;
 }
+
+#Quotes{
+  max-height: 280px;
+}
