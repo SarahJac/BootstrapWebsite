@@ -1,0 +1,134 @@
+.body{
+  font-family:"Montserrat";
+  font-style: italic;
+}
+
+
+#title{
+  background-color: #b666d2;
+}
+
+.container-fluid{
+  padding: 1% 10%;
+}
+
+.h1{
+  font:"Montserrat-Black";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+.navbar{
+  padding-bottom: 2.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  color: white;
+}
+
+.navbar-brand{
+  color: white;
+  font-weight: bolder;
+  font-size: 45px;
+}
+
+.navbar-toggler {
+border-color:white;
+}
+
+.title{
+  transform: rotate(5deg);
+}
+
+.download-btn{
+  margin:5% 3% 5% 0;
+}
+
+.inline{
+  display: inline;
+}
+
+.feature-box{
+  text-align:center;
+  margin:0 auto 0 auto;
+}
+
+#features{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.Icon:hover{
+    background-color: #d8bfd8;
+}
+
+h3{
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+#Quotes{
+  padding: 2.5% 2.5%;
+  text-align:center;
+  background-color: #D8BFD8;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-family: cursive;
+  font-size: 1.5rem;
+}
+
+.pic{
+  margin-top: 15px;
+  border-radius: 100%;
+}
+
+.Awards{
+  border-width: thick;
+  text-align:center;
+  margin:0 auto 0 auto;
+}
+
+
+.award{
+  margin-left: 45px;
+  margin-right: 45px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card-img-top{
+  width: 250px;
+  height:150px;
+  margin-left: 33px;
+}
+
+.card-group{
+  margin-top: 30px;
+}
+
+.Instagram{
+  margin-top: 50px;
+  padding-top: 20px;
+  background-color: #b48395;
+  color: white;
+  text-align: center;
+  line-height: 1px;
+  max-height:190px;
+}
+
+.download-btn{
+  margin: 1% 1% 2% 1%;
+}
+
+#footer{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: gray;
+}
